@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/yii-emailvalidator) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/yii-emailvalidator)
 
-Extension for Yii 1.1 that validates an email address using SMTP and regex.
+Extension for [Yii](https://yiiframework.com) 1.1 that validates an email address using SMTP and regex.
 
 ## Installation and usage
 
